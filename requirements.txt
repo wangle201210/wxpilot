@@ -1,0 +1,3 @@
+rapidocr_onnxruntime
+opencv-python
+pyobjc-framework-Quartz
